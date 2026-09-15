@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Marks Analyser
 
 A simple python project that calculates student marks, average, grade, and pass/fail status.
@@ -36,3 +37,6 @@ Open the terminal and run:
 
 ```bash
 python main.pyn
+=======
+# student-marks-analyser
+>>>>>>> 85c026e5bfa40d0654975daac2b2ab5518783bf5
