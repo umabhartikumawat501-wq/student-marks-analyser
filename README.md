@@ -35,4 +35,4 @@ Open the project in VS Code.
 Open the terminal and run:
 
 ```bash
-python main.py
+python main.pyn
